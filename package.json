@@ -1,0 +1,17 @@
+{
+  "name": "front_end_resume",
+  "version": "1.0.0",
+  "description": "Udacity nanodegree front-end resume project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "waseem",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-responsive": "^2.6.0",
+    "gulp-responsive-images": "0.0.3"
+  }
+}
